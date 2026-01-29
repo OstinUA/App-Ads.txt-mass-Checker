@@ -14,7 +14,7 @@ A high-performance, Streamlit-based tool designed to validate the accessibility 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/app-ads-checker.git
+git clone https://github.com/yourusername/app-ads.txt-mass-checker.git
 cd app-ads-checker
 
 ```
